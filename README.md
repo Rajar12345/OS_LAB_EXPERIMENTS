@@ -11,3 +11,9 @@ Advanced OS Lab - 4th semester
 
 ``g++ program.cpp``<br>
 ``./a.out``
+
+or
+
+``gcc filename.cpp -o filename``<br>
+``./filename``
+
